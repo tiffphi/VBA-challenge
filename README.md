@@ -1,6 +1,8 @@
 # VBA-challenge
 Module 2 Challenge
 
+# Final Solution is : Multiple_Year_Stock_Data_Solution_Module 1.vbs
+
 Write a script that will iterate over multiple worksheets.
 Add two summary charts
 One that calcuates the change from starting opening price in comparision to the last day's closing price. 
